@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "root",
-    "password": "rlawnaks12341!@",
+    "username": "[database username]",
+    "password": "[username에 해당하는 password]",
     "database": "node_study",
     "host": "127.0.0.1",
     "dialect": "mysql"
